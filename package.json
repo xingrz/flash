@@ -12,7 +12,7 @@
     "vue": "^2.6.11",
     "vue-i18n": "^8.15.3",
     "vue-upload-component": "^2.8.20",
-    "vuetify": "^2.1.0",
+    "vuetify": "^2.6.10",
     "webadb": "git+https://github.com/xingrz/webadb.js.git#umd"
   },
   "devDependencies": {
